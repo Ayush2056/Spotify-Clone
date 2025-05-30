@@ -1,4 +1,5 @@
 # Spotify-Clone
+<<<<<<< HEAD
 Spotify Clone is a web application developed using HTML, CSS, and JavaScript that aims to recreate the popular music streaming platform, Spotify. This project serves as a learning exercise and a demonstration of front-end development skills.
 
 ## Features: 
@@ -26,3 +27,5 @@ Spotify Clone is a web application developed using HTML, CSS, and JavaScript tha
 Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request. Let's make Spotify Clone even better together!
 
 I hope you enjoy exploring and using Spotify Clone! Your feedback and contributions are highly appreciated. If you have any questions or need further assistance, please don't hesitate to reach out. Happy listening!
+=======
+>>>>>>> ea387a858beb3735b80a837493dce90fe090211e
